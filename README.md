@@ -79,19 +79,24 @@ This dashboard focuses on transaction behavior and spending patterns:
 - Spending behavior across education and occupation segments
 - Revenue by card usage type (Chip, Swipe, Online)
 <img width="858" height="495" alt="Screenshot 2026-03-05 220318" src="https://github.com/user-attachments/assets/53eb2179-1f64-4d5a-b2ee-33897dd2e637" />
+
 These dashboards allow users to explore credit card usage patterns and identify key revenue drivers interactively.
 
 ### 📂 Project Workflow
 1. Raw Data Collection
 - Imported original datasets containing customer information and transaction data.
+
 2.Data Cleaning & Preparation
 - Handled missing values and corrected formatting inconsistencies
 - Standardized column structures across datasets
 - Prepared cleaned versions of the datasets
+
 3.Data Transformation
 - Converted cleaned Excel datasets into CSV format for structured analysis.
+
 4.SQL Analysis
 - Executed SQL queries to calculate revenue metrics, demographic breakdowns, and transaction insights.
+
 5. Visualization
 - Connected processed datasets to Power BI and built interactive dashboards to visualize insights.
 
