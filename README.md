@@ -39,7 +39,7 @@ The dataset includes information related to:
 ### 🛠 Tools & Technologies Used
 - Excel – Initial data inspection, cleaning, and formatting
 - CSV – Structured data storage
-SQL – Data querying and metric calculation
+- SQL - Data querying and metric calculation
 - Power BI – Interactive dashboards and visualization
 - GitHub – Version control and project documentation
 
@@ -57,7 +57,7 @@ SQL – Data querying and metric calculation
 9. How does revenue change across different quarters?
 10. Which customer segments contribute the most interest income?
 
-###📈 Dashboard Summary
+### 📈 Dashboard Summary
 Two interactive Power BI dashboards were created:
 
 #### 1️⃣ Credit Card Customer Report
