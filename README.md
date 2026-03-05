@@ -86,15 +86,15 @@ These dashboards allow users to explore credit card usage patterns and identify 
 1. Raw Data Collection
 - Imported original datasets containing customer information and transaction data.
 
-2.Data Cleaning & Preparation
+2. Data Cleaning & Preparation
 - Handled missing values and corrected formatting inconsistencies
 - Standardized column structures across datasets
 - Prepared cleaned versions of the datasets
 
-3.Data Transformation
+3. Data Transformation
 - Converted cleaned Excel datasets into CSV format for structured analysis.
 
-4.SQL Analysis
+4. SQL Analysis
 - Executed SQL queries to calculate revenue metrics, demographic breakdowns, and transaction insights.
 
 5. Visualization
